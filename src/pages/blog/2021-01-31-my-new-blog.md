@@ -6,7 +6,7 @@ description: |+
   my new blog
 
 featuredpost: true
-featuredimage: /img/doge1.jpg
+featuredimage: /img/blog-index.jpg
 tags:
   - doge dog funny
 ---

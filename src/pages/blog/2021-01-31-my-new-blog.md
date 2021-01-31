@@ -6,7 +6,7 @@ description: |+
   my new blog
 
 featuredpost: false
-featuredimage: /img/home-jumbotron.jpg
+featuredimage: /img/flavor_wheel.jpg
 tags:
   - blog
 ---
